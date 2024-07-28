@@ -1,0 +1,17 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.dotnet/
+.gitconfig
+.lesshst
+.motd_shown
+.npm/
+.nvm/
+.profile
+.ssh/
+.sudo_as_admin_successful
+.vscode-server/
+.vscode/
+.wget-hsts
+.gitignore.save
